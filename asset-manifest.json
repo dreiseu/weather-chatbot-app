@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/weather-chatbot/static/css/main.cdc3666b.css",
+    "main.js": "/weather-chatbot/static/js/main.4c519edb.js",
+    "index.html": "/weather-chatbot/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cdc3666b.css",
+    "static/js/main.4c519edb.js"
+  ]
+}
